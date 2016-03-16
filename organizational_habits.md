@@ -9,3 +9,14 @@ A habit (or wont) is a routine of behavior that is repeated regularly and tends 
 ## Types of habits
 
 ## Examples of a habit
+
+1. Search before you ask.
+
+2. Learn how to find it and show others
+
+3. 
+
+#### Questions
+
+1. What are enterprise search engines?
+2. What is the rate of churn?
