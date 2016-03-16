@@ -2,15 +2,27 @@
 
 Depending on the type of customer the answers might be relative to their knowledge. I want to be able to ask clear and concise questions.
 
-1. Do you use quora or stackoverflow? Have you ever read an answer from there and found it useful? Have you ever followed a question on quora? Why? Because you want to engage with the content creators of the company as they can push your message across.
+1. Do you know what Quora or StackOverflow are or have you used another type of Q&A system? [Y/N]
 
-Do you think StackOverflow or Quora is useful?
+2. If No, have you ever read a Reddit AMA?
 
-Do you visit them weekly?
+3. Do you remember what is was about?
 
-If that's your rate why don't you want to contribute weekly to your own Q&A?
+4. Did you contribute to the AMA by asking questions, upvoting answers?
 
-Identify Q&A contributors within the organization.
+5. If Yes, did you use any of the answers provided in accomplishing your goal? [Y/N]
+
+6. If Yes, do you have a Quora or StackOverflow account? [Y/N]
+
+7. If Yes, have you ever engaged by asking a question, choosing an answer, commenting or following a topic? [multiple choice]
+
+You want to discover people who have already built this habit and start by working with them (lead by example) to promote this habit.
+
+8. If [any of the above] then What is your Quora or StackOverflow handle?
+
+You want to see how good are they at asking questions thus you check out their account to see how they engage within the community.
+
+6. How often do you visit them? [daily, weekly, monthly, when I need to because I use google]
 
 
 
@@ -47,3 +59,12 @@ Try to gauge whether the person is trying to help others or not.
 12. Who acts as a knowledge bridge between departments? For example someone in sales needs to know how many X can they have for a customer. The number of X is known by the development team. How does this knowledge transfer happen?
 
 13. Would you accept anonymous questions? Do you mind people asking you uncomfortable questions?
+
+If that's your rate why don't you want to contribute weekly to your own Q&A?
+
+Identify Q&A contributors within the organization.
+
+
+#### Types of questions
+
+1. http://changingminds.org/techniques/questioning/closed_questions.htm
