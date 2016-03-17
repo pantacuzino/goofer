@@ -66,10 +66,6 @@ Try to gauge whether the person is trying to help others or not.
 
 9. Do you find yourself forwarding information previously answered?
 
-10. Does your team use any questions and answers platform such as quora or stackoverflow?
-
-11. Do you have documents spread across various services?
-
 12. Who acts as a knowledge bridge between departments? For example someone in sales needs to know how many X can they have for a customer. The number of X is known by the development team. How does this knowledge transfer happen?
 
 13. Would you accept anonymous questions? Do you mind people asking you uncomfortable questions?
