@@ -2,6 +2,10 @@
 
 Depending on the type of customer the answers might be relative to their knowledge. I want to be able to ask clear and concise questions.
 
+## What's your usage level of QA products?
+
+You want to discover people who have already built this habit and start by working with them (lead by example) to promote this habit. You want to see how good are they at asking questions by going through their account activity thus you check out their account to see how they engage within the community. Some people are observers, others are contributors, etc
+
 1. Do you know what Quora or StackOverflow are or have you used another type of Q&A system? [Y/N]
 
 2. If No, have you ever read a Reddit AMA?
@@ -18,22 +22,23 @@ Depending on the type of customer the answers might be relative to their knowled
 
 8. If [any of the above] then What is your Quora or StackOverflow handle?
 
-9. How often do you visit them? [daily, weekly, monthly, when I need to because I use google]
+9. How often do you visit them? [daily, weekly, monthly, when I need to because I use Google]
 
-You want to discover people who have already built this habit and start by working with them (lead by example) to promote this habit. You want to see how good are they at asking questions by going through their account activity thus you check out their account to see how they engage within the community. Some people are observers, others are contributors, etc
-
-10. What types of online services do you use: mail, wiki, word documents, spreadsheets, todos, slack, code repositories? [multiple selection]
-
-11. How would you rate of use for the services you've selected above? [Low, Medium, High]
-
-12. Which you couldn't live without?
-
-13. What features do you use the most out of those services?
-
-14. How often do you check them?
+## What knowledge sharing products do you use internally?
 
 Figure out the collaboration rank of all the services they use.
 
+1. What types of online services do you use: mail, wiki, word documents, spreadsheets, todos, slack, code repositories? [multiple selection]
+
+2. How would you rate of use for the services you've selected above? [Low, Medium, High]
+
+3. Which one you couldn't live without?
+
+4. What features do you use the most out of those services?
+
+5. How often do you check them?
+
+## I am question, can you organize me please?
 
 1. What types of questions do you want to ask?
 
