@@ -48,4 +48,63 @@ Why: there is value in your first impressions, your shared impressions, and your
 10. Follow Up By E-Mail. Thank them again. Provide a detailed summary (include their numbers and ranges) of what you heard and let them critique it (this does not mean that you have to share all of your perceptions or plans). Ask if there are other folks that they feel you should talk to, either at their company or other companies, who would be able to provide you with a valuable perspective on the problem.
 Why: Introverts are much more willing to share their thoughts in writing once they have had a chance to reflect, give them a chance to do so. Extroverts can have second thoughts and follow on observations, capture them all.
 
-> Wonderfully expressed. 
+> Wonderfully expressed.
+
+1. Update July 17: Tristan Kromer has posted “12 Random Customer Development Tips” that are quite good, here are three that are great additions to the above list:
+
+“Who you are talking to is as important as what they are saying.”
+“Smile, people want to talk to you.”
+“# of questions you ask / # of sentences you speak = % of customer development you actually did.”
+
+> Awesome metric
+
+Update-Dec-4-2012: Additional thoughts from today’s “Engineering Your Sales Workshop”
+
+It’s should really be a dialog not an interview. If you are not asking questions it can become a feature travelog (it doesn’t count if you end a five minute explanation of your view of their problem or your view of the benefits of your solution with “What do you think?”) and if you are not hearing questions then it can become an interrogation.
+Why: If you are not hearing any questions from the prospect then they have little or no interest in working with you.
+
+> I am not sure that's the case. You could suffer from worry or anxiety, you might be depressed, it's not that there is no interest, it has not yet surfaced.
+
+Update Dec-7-2012: Giff Constable has a third revision to his  list to include a “focus on past behavior” matching my point 3.
+
+Update Dec-16-2012 Marc McNeill has published his “Twelve Tips for Customer Development Interviews” that offers two tips I would add to the above list:
+
+“show don’t explain”
+“they could be a customer”
+
+> What should I show?
+
+Update Jan-3-2013 Dave Telleen-Lawton did a recap of many of these posts and added a suggestion of his own in “Tactics: Distinguish Between B2c and B2B”
+
+Ask about facts before you ask about opinion.
+
+> Agreed! Asking about facts is the best advice on this page. Focusing on absolutes rather than relatives.
+
+Update Jan-12-2013 Dave Telleen-Lawton added his own list of “The Most Important Elements of Prospective Customer Interviews” and suggests some key steps to prepare for the interview:
+
+Articulate what problem we solve, for whom we solve this problem, and what is the cost to them for NOT solving the problem.
+Once you get one meeting set up, now you can work on the presentation.
+Two strikes and you’re out. Get the right people in the meeting on both sides of the table. The meeting’s value is greatest when there is a discussion, especially when information is novel to one side or the other.  After the second question that you cannot answer, the prospect stops asking questions.
+Bunch meetings together in waves.Conduct 3-5 meetings in fairly compact (1-2 day) waves and invite a larger team to review the wave findings. Then schedule field time for the next wave. Keep this up until you have all your uncertainties clarified or at least bounded. The same core team travels to all meetings in one car so discussions occur between meetings and while reviewing notes.
+Summarize findings visually — perhaps a matrix — to understand who likely customers are based on what they do, their size, their market segment.
+
+> Yes, I am not going to follow this advice, I am not a 10 man team
+
+Update Dec-28-2013: Kate Rutter has a nice encapsulation on slides 11-22 of “From Cold Sweat to Hot Validated Learning” in particular slide 15 outlines a framework for thinking about your offering:
+
+Who is it for? users
+Why does it matter for them? needs & goals
+What can they do that they couldn’t do before? uses
+What features do they need to do that? features
+How do these limited features fit together? product brand and voice
+
+> As a structure it can be followed
+
+Update May-26-2014 Mikel Nino’s “Emergency kit for Customer Development interviews” offers a good list of key items to focus on in a customer development interview
+
+What are the specifics of the problem or need?
+How often and where does the problem or need occur (or what triggers it)?
+What they have they done to solve the problem, what have they tried or researched and what are they doing now?
+What would constitute an improvement over the status quo (and how much of an impact can our solution have)?
+
+> Same as above
