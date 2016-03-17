@@ -16,14 +16,23 @@ Depending on the type of customer the answers might be relative to their knowled
 
 7. If Yes, have you ever engaged by asking a question, choosing an answer, commenting or following a topic? [multiple choice]
 
-You want to discover people who have already built this habit and start by working with them (lead by example) to promote this habit.
-
 8. If [any of the above] then What is your Quora or StackOverflow handle?
 
-You want to see how good are they at asking questions thus you check out their account to see how they engage within the community.
+9. How often do you visit them? [daily, weekly, monthly, when I need to because I use google]
 
-6. How often do you visit them? [daily, weekly, monthly, when I need to because I use google]
+You want to discover people who have already built this habit and start by working with them (lead by example) to promote this habit. You want to see how good are they at asking questions by going through their account activity thus you check out their account to see how they engage within the community. Some people are observers, others are contributors, etc
 
+10. What types of online services do you use: mail, wiki, word documents, spreadsheets, todos, slack, code repositories? [multiple selection]
+
+11. How would you rate of use for the services you've selected above? [Low, Medium, High]
+
+12. Which you couldn't live without?
+
+13. What features do you use the most out of those services?
+
+14. How often do you check them?
+
+Figure out the collaboration rank of all the services they use.
 
 
 1. What types of questions do you want to ask?
