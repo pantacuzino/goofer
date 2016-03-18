@@ -9,3 +9,9 @@ You arrive at a search box. It searches through documents. If you can't find it 
 #### Record your workflow
 
 Let's say someone asks you a question similar to "What is our churn rate for December?". Instead of asking you the second time you could record your workflow via a screencast and this way the user would know next time how to do it.
+
+#### Recognize whether the bug is a duplicate by looking at images
+
+#### You are a busy executive, don't repeat yourself for every on-bording process
+
+#### You are a caring developer, don't frustrate yourself over every already answered question
