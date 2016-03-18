@@ -108,3 +108,37 @@ What they have they done to solve the problem, what have they tried or researche
 What would constitute an improvement over the status quo (and how much of an impact can our solution have)?
 
 > Same as above
+
+http://blog.raywu.co/3-steps-to-great-customer-development
+
+#### 3 Steps to Great Customer Development
+
+Iteration: 1
+
+Customer: Executive who needs to improve knowledge sharing
+
+Problem: Knowledge is distributed across people who are not sharing it effectively (one on one communication through chat channels) and on-boarding, team concentration is lacking
+
+Solution: N/A
+
+Assumptions:
+
+?
+
+Riskiest Assumption:
+
+?
+
+Experiment:
+
+?
+
+Minimum Success Criteria:
+
+?
+
+Decision:
+
+-
+
+I lumped the customer discovery questions I designed into their respective categories as shown in the table above. The end goal is to evaluate whether the person you are speaking to a) is your target customer, b) has the problem, c) has behaviors that satisfy your riskiest assumption.
