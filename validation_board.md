@@ -6,7 +6,7 @@ people in senior roles with on-boarding responsibilities
 
 #### Problem Hypothesis
 
-No idea what a good on-boarding should look like
+Managers are often so driven to recruit talented workers that they neglect to think about what will happen once the new hire arrives ready to work
 
 #### Design Experiments:
 
