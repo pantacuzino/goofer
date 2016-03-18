@@ -1,10 +1,14 @@
 # 1
 
-Customer Hypothesis: Developers in senior roles
+#### Customer Hypothesis
 
-Problem Hypothesis: No idea what a good on-boarding should look like
+people in senior roles with on-boarding responsibilities
 
-Design Experiments:
+#### Problem Hypothesis
+
+No idea what a good on-boarding should look like
+
+#### Design Experiments:
 
 - on-boarding represents a challenge
 - on-boarding is done via a process
@@ -14,4 +18,6 @@ Design Experiments:
 - people mind when they are being asked the same question multiple times
 - people mind when they are being asked a question which already was answered somewhere
 
-# It's an iterative process, the problem Hypothesis will change. It might not yield any business ideas but it will help you learn.
+NB:
+
+- It's an iterative process, the problem Hypothesis will change. It might not yield any business ideas but it will help you learn.
