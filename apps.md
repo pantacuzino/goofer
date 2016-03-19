@@ -15,3 +15,7 @@ Let's say someone asks you a question similar to "What is our churn rate for Dec
 #### You are a busy executive, don't repeat yourself for every on-bording process
 
 #### You are a caring developer, don't frustrate yourself over every already answered question
+
+#### Our responsibility as executives is to enable people to learn and disseminate knowledge held up in various stores. One way we could do this is by creating a learning path for new employees and making learning a part of the job. Courses are one way to encourage this.
+
+#### You are in an Excel looking over some numbers. Slack notification pops up. You see a question showing from George [insert another international common name]. Another question in 5 minutes, you loose your focus. Is this you? you ask and on a mobile device you tap to say yes.
