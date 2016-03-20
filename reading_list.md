@@ -222,3 +222,139 @@ https://www.youtube.com/watch?v=F-5Iyj9A1MU
 #### Experiment Board Tutorial with Grace Ng
 
 Three methods to test assumptions: interview (get in front of customers and get answers), pre-sale (when you sell something before actually having it) and concierge (where you manually deliver the service for your customer)
+
+http://kevindewalt.com/2013/01/21/bad-customer-development-questions-and-how-to-avoid-my-mistakes/
+
+#### Bad Customer Development Questions and How to Avoid My Mistakes
+
+Summary: Although Customer Development can give us tremendous insight into market problems, it takes a lot of time – time that’s wasted if we do it incorrectly. Worse yet, poorly worded questions can cause us to reach wrong conclusions about what people want. The best questions don’t require customers to speculate about their behavior. Here I share real examples my bad questions and mistakes and offer some better alternatives.
+
+If you’re starting Customer Development you’re getting ready to talk to a lot of potential customers. You started with an an idea, wrote down your key assumptions, and started flipping through contacts to see who you can interview.
+
+Awesome! You’re off to a great start. Talking face-to-face with customers brings us insight we can’t get from surveys and clicks.
+
+Unfortunately, conducting face-to-face customer development interviews is a skill that takes practice. I’ve been doing it for 5 years and I’m still learning. So many times I’ve asked the wrong questions and later realized I was wasting time or – worse yet – coming to incorrect conclusions and building the wrong products.
+
+“Learn Nothing” Questions
+
+I call “Learn Nothing” questions those that don’t result in any learning, just wasted time.
+
+“What do you think of my idea?”
+
+I LOVE talking about startup ideas. To quote my friend Patrick Smith, “talking about startups is entertainment like sports”. Fun, yes. Validated learning? No.  What do you think of my startup idea? is useless because if my idea is great people will like it. If it sucks, surely some people will still like it.
+
+“If you could wave a magic wand…”
+
+I know Steve Blank calls this the “IPO question”. I call it the “sit back and watch people ramble about things I have no chance of building” question. I’ve asked this question at the end of meetings and – after some funny looks – watched somebody ramble. It just hasn’t worked for me.
+
+“Can you tell me about your problems with medical bills?”
+
+I asked this question a few times before realizing that asking people to talk about problems just results in venting and no learning. This is particularly true with complex, personal, emotionally charged problems like those in health care.  “Well there was this one time….and then…but what really got me mad…”
+
+“False Positive” Questions
+
+Wrong conclusions are worse than no learning at all, and I call “False Positive” questions those designed to get customers to tell us what we want to hear.
+
+All of us want our product ideas to be right – I want it, you want it, Steve Jobs wanted it. While our enthusiasm is our biggest asset, it is dangerous in customer development because most people don’t want to disappoint us.
+
+> +1 most people don't want to dissapoint us. Could I create questions which are designed to make people dissapoint us?
+
+“I’m building a product to help people manage medical bills. Can you tell me…”
+
+Any question that starts with the solution already biases people’s expectations. Someone hearing this question might focus on a minor problem they had with medical billing in the past and convince us that it is a major source of pain.
+
+> Leading question, I will have to revise the structure of questions, but maybe a book on interogatory techniques might help. They do work at making people say what they want.
+
+Better: Skip the “I’m building a…” intro.
+
+“How do you reconcile your HSA account with your bills, receipts, and statements to make sure you’re optimizing future tax savings?”
+
+The “How do you do something complex to achieve results” questions can put people on the defensive. You can imagine someone thinking, “You mean I’m supposed to be doing something with that paperwork to save money on taxes? Oh no, I’m such an idiot, what am I doing wrong?”
+
+Of course customers will be biased to tell us they need help with something after we cause them to doubt their own competence.
+
+> +1 it makes sense, guilty as charged. I thought this was the whole point to sell them something, make them realize they have a problem.
+
+Better: “What do you do with that HSA paperwork?”
+
+“Would you take a picture of a medical bill with your iPhone?”
+
+This question sets up the prospective customer to tell us what we obviously want to hear.
+
+Better questions would give us insight into how they currently work and whether the extra steps and inconvenience of using our products gives a promise of a big return.
+
+Better: “Do you scan or file medical bills you get in the mail?”
+
+> I can understand the difference, let me see how I can integrate this. Would you take a picture versus Do you scan. One is for a future behaviour and one is asking for current behaviour which is what we want to know about.
+
+This question is better because it gives someone the opportunity to disappoint us without realizing it, what Rob Fitzpatrick calls the “mom test”.
+
+In this case, suppose your key assumption is that managing bills via in iPhone app saves time over filing or scanning. Should they respond, “Scan them? I’m too busy for that, I don’t even open them,” you’ve just invalidated your whole company vision with one question.
+
+The Key to Effective Customer Development
+
+In retrospect, the root of my bad questions was that I only had an idea – I didn’t have specific hypothesis I was trying to validate. I tried to replace the hard work of documenting and testing assumptions with meetings and simply wasted time.
+
+Always remember that Customer Development is a big commitment that takes a huge amount of time, time best spent on something else if you’re not doing it right.
+
+Before you line up a bunch of meetings and spend weeks talking to people, take some time to carefully consider what you’re going to ask and why.  The key is to make sure your questions are designed to test your assumptions.  I write them down and you should too.  
+
+Talk with your co-founders or advisers about your interview script. If you need help, I’m happy to review it with you.
+
+http://customerdevlabs.com/2014/07/01/how-many-customer-discovery-problem-interviews-should-i-do/
+
+#### Check yo’ Segment
+
+When I’ve interviewed customers in the past and couldn’t quickly get a clear picture on their answers (i.e. interviewed more than 5 people and “everyone had different problems”) it was because I was interviewing people across customer segments.
+
+I was interviewing *“small and medium sized businesses”* when I should have been interviewing, **“US law firms specializing in IP law with 5 – 25 lawyers, and who are LexisNexis customers.”**
+
+I was interviewing *“friends and family members of people with ADHD”* when I should have been interviewing **“working age people with smart phones who live within 50 miles of US urban centers and within an hour of a sibling diagnosed with ADHD.”**
+
+http://customerdevlabs.com/2013/11/05/how-i-interview-customers/
+
+#### How to Interview your Customers
+
+Interviewing Customers is a Special Kind of Torture
+
+Talk to a stranger. Fun.
+That stranger is immensely busy…and hates being sold things. Getting better.
+That stranger will likely destroy your vision for a company. Ready to get started?!
+
+When I started interviewing customers, the only thing I cared less about than talking about other people’s problems, was asking about them. So, I skipped all the questions I thought were BS, and jumped to the most important ones:
+
+“Would you use a product that does _____________?” and “How much would you pay for it?”
+Turns out, those aren’t the most important questions…they’re the most misleading. Apparently, I am not a natural interviewer.
+
+When I realized interviewing customers meant standing in front of strangers doing something I was awful at, any enthusiasm I had towards “getting out of the building”, evaporated.
+
+When I see other founders hesitate to interview customers, or do them wrong, I empathize. I’ve been there. It’s a daunting task we have no experience with – and – isn’t nearly as fun as building stuff.
+
+Let’s Fix That
+
+Despite my early misgivings, learning to interview customers has become one of my most indispensable skills. Not just because it gives me a leg up on competitors, not because it helps me (in)validate ideas quickly, and not because it helps in my personal life as much as it does my professional. It’s indispensable because…
+
+For me, interviewing customers makes customer development…fulfilling.
+Instead of being stressed about what the customer is going to think about my idea, instead of fumbling over my words and worrying about the perfect way to pitch my product, a customer interview isn’t about me, my product, or my words. It’s about theirs. All I have to do is listen. No pitching, no negotiating, just ask a handful of questions with a sincere interest to learn.
+
+Other people’s problems are interesting – when you’re in a position to solve them. Tweet this
+How Not to Interview
+
+A few ground rules I use that will prevent you from torpedoing your interviews:
+
+1st rule of validating your idea: Do not talk about your idea. Tweet this
+tyler-fight-club-quote1 Your brain is hard wired to screw you as soon as you start thinking about your idea.
+
+Once your idea pops into your brain during an interview, your body will literally turn against you. It will start looking for validation that the idea is good. Your interpretations of statements, intonation, body language will all be skewed. What’s worse, the person you’re talking to subconsciously knows what you’re looking for, and based on our desire to build relationships, will want to help you. They’ll be your unwitting accomplice and provide the  “validation” you’re looking for – leading you in the wrong direction. To the best of your abilities, avoid thinking about your idea during the interview – and certainly avoid talking about it. These interviews are about your customers and their problems. Do your best to keep the conversation focused there.
+
+2nd rule of validating your idea: Do not ask about the future.
+No hypotheticals, no projections, no guesses. The way I remember this rule? I never ask a question with the word “would” in it:
+
+“If we built a product that solved X problem, would you use it?”
+“How much would you pay for something that did X?”
+“Would you like your existing solution better if it did X?”
+When you use the word “would”, you’re making a thinly veiled attempt to validate your product…not their problem. Don’t do that. See Rule #1.
+
+
+
+In addition, when you ask about the future, you’re asking your customer to predict it. She can’t do that. She’ll try, but she’ll be wrong. Listening to wrong answers can only serve to harm you (“75% of people I talked to said they wanted…”, “Half of the interviewees said they’d pay $20″, etc.) – they’re all bad guesses. There are better ways to answer those questions.
