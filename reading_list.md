@@ -358,3 +358,153 @@ When you use the word “would”, you’re making a thinly veiled attempt to va
 
 
 In addition, when you ask about the future, you’re asking your customer to predict it. She can’t do that. She’ll try, but she’ll be wrong. Listening to wrong answers can only serve to harm you (“75% of people I talked to said they wanted…”, “Half of the interviewees said they’d pay $20″, etc.) – they’re all bad guesses. There are better ways to answer those questions.
+
+
+http://leanb2bbook.com/blog/b2b-customer-discovery-interview-questions-the-master-list/
+
+> The questions are fucking good, I like their progression as well. Would I start with those? Probably not. I'm just starting out, I will make "mistakes". But this type of interviewing seems like a catch-all but it does help to establish a relationship with the customer through it's structure.
+
+http://leanb2bbook.com/blog/16-tips-to-do-great-customer-interviews/
+
+#### 16 Tips for Better Customer Interviews
+
+Learn to stay quiet: The best interviews are 90% listening and 10% talking. Don’t feel like you need to talk.
+
+> Added it to my post customer interview analysis
+
+Have a plan: Create an interview script and stick to it. It’s okay to adjust the phrasing or add questions, but being able to compare interviews is critical.
+
+> I don't understand why comparing is critical yet, it might be. But yes, sticking to a script is fine in the beginning
+
+Separate target groups: Focus on one sector or market vertical at a time to get a consistent data point. For example, if you are to test the dentist vertical, ask the same questions to every dentist you meet.
+
+Meet one prospect at a time: Your goal is to make them talk about their personal pains, not their employer’s. Keep it one-on-one.
+
+> I wouldn't do two prospects at a time. I am struggling to do one, I can't do two-person
+
+Meet face-to-face: The best interviews are done face-to-face. Interviews through Skype or by phone are acceptable, but you will miss a lot of the emotions and opportunities.
+
+> Unless you record video if they allow you to
+
+Choose your location: If you’re uncomfortable meeting with a high-ranked prospect (it happens), get him out of his office for lunch or coffee to even the odds. A neutral location will make you feel more comfortable, but it will also make some information impossible to collect. A following interview should be in their office.
+
+Ask open questions: Who, what, when, where, why, and how, not yes/no questions. Dig deep and avoid closed questions.
+
+> Why?
+
+Follow emotion: Whenever you hear emotion in the person’s voice, prolong that line of conversation.
+Record and take notes: You miss 50% of what’s being said during the interview if you’re taking notes. Record, take notes and re-listen to the interviews to gain new insights.
+
+> Will do
+
+Don’t judge: Your goal is to get as much information as possible in a limited time. It’s better to have more data than less; don’t disqualify the prospect during the meeting.
+
+> Ok, but if the prospect is not qualified and I've made a mistake why should I waste (fill) his time?
+
+Encourage complaints: Whenever the person starts complaining, listen. People are more specific with complaints than praise. Specific examples will really help you learn about the problems.
+
+> If by listening you encourage complaints, so be it. I don't see the connection. But if you fallback to rule #1 you should listen.
+
+Focus on actual behavior: People are not very good at predicting their own actions, knowing what they want, or knowing their true goals. Avoid what ifs. Ask about recent experiences.
+
+> Keep it in the present or past, try to avoid future questioning
+
+Bring a partner (sometimes): A two-person team can have one person leading the interview while the other takes notes. It might make your team appear more credible and will definitely accelerate share back with the team. Any more than two interviewers typically intimidate participants.
+
+Parrot the answers: Repeat the answers back to your prospect for further clarifications and to validate your understanding. Do this by saying, “So what you’re saying is…”
+
+> +1 without annoying the customer
+
+Reference “other people”: Cindy Alvarez recommends challenging your pre-existing hypotheses by referencing “other people.” For example, “I’ve heard from other people that ______. Do you agree?” It’s easier for people to disagree with an anonymous third party than to disagree with you.
+
+> +1 agreement statements
+
+Smile: Be friendly and welcoming to make participants feel comfortable and get them to smile back.
+
+> +1 :)
+
+Enjoy!
+
+http://leanb2bbook.com/blog/why-being-a-great-salesman-hurts-your-b2b-customer-development-process/
+
+#### Why Being a Great Salesman Hurts Your Customer Development Process
+
+> This blog is awesome, the writing style is great, use of references and it caters to the way I perceive the world
+
+Being too good of a salesperson can hurt your validation process.
+
+Initially, learning and customer references should be prioritized over making money. You want prospects to honestly need and use your product.
+
+Your plan is not to make money from the first clients. Money will be there later, so being generous with your early clients is an excellent idea.
+
+It’s important for prospects to understand that you don’t have a product yet. You’re not just a regular vendor; you’re looking for a partnership more than just a sale.
+
+You want to help them reach their objective, but in exchange, they must understand that you need to have product orders before anything gets built. That process must be clear.
+
+Look, you have to understand that you’re getting in on the ground floor and for that, you’ll always be recognized as our first customer and I’ll always remember that. – Steve Smith, CakeMail Co-Founder
+
+The worst thing you can do is to try to sell. You don’t know what your prospects want, you have no idea what the solution could be, and you don’t even know if the people you’re meeting are people you would like to sell to.
+
+> +1. It's not like I know how to sale, but I can dig this logic
+
+Find out what prospects really need to become clients.
+
+With a good personal network, it is possible to ride relationships and land your first clients without really learning anything. However, riding relationships doesn’t lead to a scalable and repeatable model. At some point, even the best professional networks dry up.
+
+> +1
+
+Keep the sales tricks in your back pocket. Learn before selling if you truly want to build a business.
+
+http://customerdevlabs.com/2014/07/09/b2b-customer-discovery-problem-interview-script/
+
+#### A Better Way to Interview Enterprise Customers
+
+If you’re doing B2B Problem Interviews, I’ve got some tweaks to our traditional interview script that I’ve been using to great effect in the enterprise space. I wanted to pass them along.
+
+Step 1: Define the Role
+
+I now start off my B2B interviews with, “How do you describe your role?” I dig this question for 2 reasons:
+
+It gives you both a common foundation to build on during the interview.
+It gets the customer describing her world, using her words.
+If you already know your customer’s role (e.g. job responsibilities) is, asking them to describe it gives you an easy way into the conversation while providing a shared context to work from for the rest of your interview.
+
+If you don’t fully understand your customer’s role, asking her to use “her own words” gives you clearance to ask what might otherwise be an intimidating question.
+
+“Oh, I’m not asking because I don’t know. I just want to hear you describe it.”
+It’s her words you’ll use throughout the interview to establish an relationship. It’s her words you’ll use to demonstrate trust when asking for interviews with other B2B customers. And it’s her words you’ll use when it’s time to start pitching her a solution.
+
+> Not a bad question either, but I don't think it's what I am supposed to ask though.
+
+Step 2: Define Success
+
+You’ve just asked about her role, now you want to know how to help her kill it in that role, so you ask, “What does success look like for you?”
+
+You’re on the lookout for metrics used to evaluate her performance – both the measures her manager uses, and she uses. The success criteria she calls out is what we’re going to help her achieve!
+
+Again pay attention to the words she uses – you’ll play these back again, verbatim, when it’s time for your solution interview.
+
+> Ok, I agree with this one. It can be used afterwards in marketing
+
+Step 3: Define the Problems
+
+Now that you’ve established what success looks like to your customer, we want to find out the hardest part in achieving it. These “hard parts” are the problems we’re going to solve!
+
+This is essentially the beginning of our traditional interview script, but now that you understand her role intimately, and what she’s striving for, you’ll have a fantastic context to ask in-depth questions from throughout the interview.
+
+The key here is to tie any problems they mention to a specific success criteria so during your solution interview, you can draw a direct line from their problem, to your solution, and that results in their success criteria.
+
+Using these three questions, in conjunction with the traditional interview script will provide the context, and the customer’s words, to set you up for success in your B2B solution interviews.
+
+B2B Problem Interview Script
+1. How do you describe your role?
+2. What does success look like for you?
+3. What’s the hardest part about achieving that success?
+4. Can you tell me about the last time that happened?
+5. Why was that hard?
+6. What, if anything, have you done to solve that problem?
+7. What don’t you love about the solutions you’ve tried?
+
+What are solution interviews and how do you knock them out of the park? We’ll answer that in our next blog post. Subscribe here to get it! :)
+
+> Nice post, but nothing extraordinary, rehashing old ideas
