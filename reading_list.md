@@ -627,3 +627,21 @@ When Brier delivered his message about onboarding at the CEO Summit, he had just
 “Yes, remember that culture is the internal manifestation of your brand and that nothing scales better than words. But if you only take one thing, don't forget about founder connectedness, because from your perspective, you'll always feel more connected to your team than they will. Just sort of assume they're less connected to you than you think they are,” say Brier. “And that goes especially for the employees you’ve not yet hired. When you're growing fast, plan for them just as much as much as you're planning for your current team. They may not know their onboarding has started, but you must.”
 
 > It's a great story to be shared and it looks great on the outside. Who knows how productive it actually is, how much of the story is retained and how their culture evolved.
+
+http://firstround.com/review/This-Startup-Built-Internal-Tools-to-Fuel-Major-Growth-Heres-Their-Approach/
+
+#### GET BUY IN
+
+Of course, none of the effort or investment is worth it if you can’t get the people at your company to use the products that have been built for them. *Ensuring that people buy into internal tools is more than half the battle. As Percolate grew from 5 to 15 to 50 people it became more and more challenging to roll out new internal tools and keep everyone engaged.*
+
+To get everyone onboard, Brier and his executive team did a lot of repeating. “I think this is true no matter what company you work at or what you're doing — you should repeat your mission, your vision, and everything else that is important so that people really internalize it.”
+
+During every new hire’s onboarding, they spend their first week at Percolate getting exposed to the different tools that the company uses to communicate and get things done. It’s become a core part of the new hire experience. Of course, there are products that get used company-wide, and those that are only used on the team level. For the latter, the immediate manager carries the onboarding responsibilities.
+
+*For example, to get everyone familiar with Barista, Day 1 training directs new hires to use the tool to send around an email to everyone introducing themselves and asking three questions. This gives everyone great exposure to the tool while also helping them answer questions they may have, says Brier.*
+
+“I think the more that you can get your staff comfortable with the mindset that products are the most important thing, the better product you will build externally.”
+
+
+
+https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.9qxd31dsd
