@@ -642,6 +642,37 @@ During every new hire’s onboarding, they spend their first week at Percolate g
 
 “I think the more that you can get your staff comfortable with the mindset that products are the most important thing, the better product you will build externally.”
 
+http://firstround.com/review/the-tools-early-stage-startups-actually-need-to-understand-their-customers/
+
+Many companies mistakenly build tools for themselves — instead of focusing entirely on their customers — because they understand themselves better than their customers. It's an easy trap,” says Reinhardt. “You should only be building your own tool if you've tried lots of others on the market and find that none of them will solve your problem. Only build if you’re left without a choice. And still take care: *I’d estimate that 50% of the startups that I see build tools can’t maintain them.”*
+
+If you’ve done your research and decide to build, go in with eyes wide open. “Building your own analytics tools in lieu of unleashing all your resources to build your product can be dangerous. It can easily kill a startup,” says Reinhardt. *“Say you have three engineers and one of them is working on building your analytics tool. Your ability to develop your product is now cut by 30% so you need 30% more runway. That analytics tool is lot more expensive to build than it seems. Being capable of building something doesn't mean that you should.”*
+
+If it’s not vendor research, the most simple and impactful preparation is simply to write down the objective — even if it is in hypothesis form — before testing the tool. “Enter the tool selection process with an attitude of confidence that comes from experimentation. It may seem apparent, but I’m shocked by how many companies forget this step because the are rushing to make a decision,” says Reinhardt. “Here’s an example: ‘Our goal in using the analytics tool is for our product team to have a complete picture of the activation funnel.’ In this case, define what 60%, 80% or 100% of a complete picture of the customer might look like at various stages of success with the tool. Test it with your data, and, at the end of two weeks, declare whether it hit mark. This setup will help you find the winner or keep you moving.”
+
+> I like how he set an objective goal similar to increase team collaboration by 10%
+
+#### Calculate the full cost of the tool.
+
+Sticker price is only the beginning. *Quantifying time saved and opportunity cost gives a more realistic approximation of the true cost of a tool.* “There was a point in Segment’s history where we we had only three months of runway left. It was a very scary time and we ran through all of the scenarios to survive if we weren’t able to fundraise,” says Reinhardt. “Compared to people, tools were a small fraction, but we couldn’t part with either, even in our desperate situation. *It was because tools allowed us to save time, and that was hugely valuable.”*
+
+Reinhardt and Segment compare the cost of a tool to the dollar value of their time. “Tools not only save us money on hourly cost, but also accelerate our work,” says Reinhardt. “Say you are assessing your time at $50 per hour and buying MailChimp at $100 per month will save you building an e-mail distribution tool. That’s clearly worth it. So for us, it was getting disciplined about measuring the tradeoff between our time and budget.”
+
+That’s even before calculating opportunity cost. “In retrospect, it can be enormous,” says Reinhardt. “If the company succeeds then you're going to end up valuing your time a lot more than the $30,000 dollars a year you might be paying yourself. It’s harder to quantify given how highly variable it is, but it can tip the scale if you are making a 50/50 decision.”
+
+If you are truly paralyzed in purchasing a tool or service, take solace in the fact that most contracts for these tools are far less aggressive than, say, your mobile plan. “I structure the deal with vendors to pay monthly, but pretty much all these vendors will do that by default, especially for a startup that’s pre-product-market fit,” As companies get bigger they’ll ask for annual contracts, but at that point, it’s not a big deal,” says Reinhardt. “The bigger deal is getting locked in; that is real. Say you start sending your data to a tool and six months later you discover you were using the wrong tool. What you actually need is that data in another tool. It's getting very difficult to untangle yourself, because you've installed tracking code all over the place.”
+
+Switching cost is a variable to factor into the total expense of a tool. “Again, through the course of an early-stage startup, a company will use several tools in each of eight or so different categories. For example, your data must graduate from different analytics tools as your startup grows,” says Reinhardt. “Don’t get entangled in a tool that you don't want to use anymore or that your company has outgrown. One way to do that is to make sure that you are separating data collection from the tools that receive the data.”
+
+Your expectation for each of these tool categories is that they are instrumented with your data and deliver insights that change how you make decisions. “That could be making choices faster, in a more informed way, or more collaboratively with your team or customers. If you have a tool running the background, but you’re never looking at it, it’s not valuable.”
+
+*Success comes from implementing a tool, using it and making decisions with the data it’s serving up to you.
+It’s enough of a challenge to structure and disentangle data; there’s no reason to have the same complications with the tools you use to manage it. *
+
+
+
+
+
 
 
 https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.9qxd31dsd
