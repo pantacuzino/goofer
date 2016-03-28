@@ -791,5 +791,156 @@ Your goal should always be to make people believe on a gut level that your organ
 
 > But there are other places where you could work for you are not selling them some shades. You see reality this way because I tell you to.
 
+http://firstround.com/review/build-your-user-base-with-these-human-behavior-hacks/
+
+#### Build Your User Base with These Human Behavior Hacks
+
+CONFIRMATION BIAS — YOUR NO. 1 ENEMY
+
+“If you believe something will work, you'll deliberately or even subconsciously ignore any feedback to the contrary, and you’ll focus only on the feedback that backs up what you already think,” says Alvarez. “Now consider how much nearly delusional conviction startup founders need to have about their companies just to raise money and survive, and you can see why they fall prey to this all the time.”
+
+Confirmation bias manifests in a few ways:
+
+Only talking to people we think will agree with us.
+
+Writing off people who don’t agree with us as idiots or haters.
+
+Asking questions designed to support our hypothesis.
+
+Let’s say you ask someone how they’d choose to use a particular service, and they respond by basically repeating the checklist you have in your mind for why they’d choose to work with you. This is very exciting. So much so, that you probably won’t ask the contrary question: *“What’s one thing that would cause you not to purchase a service like this?” Asking that question is dangerous because they might say something you can’t fix or can’t afford to fix right now.*
+
+“It requires a ton of humility from founders and product leaders to remember they’re subject to confirmation bias,” Alvarez says.
+
+To a founder, their company is their baby. No one wants to hear that their baby is ugly.
+“You really have to choose to hear it,” she says. “You have to very proactively and consciously shift out of this selling mode of absolute certainty that you’ve used in front of investors and recruits. You have to come back to neutral and go into conversations with customers as an objective observer. If something you assumed is contradicted, just record that the way a video camera would in that situation.”
+
+While you can’t remove bias from your mind, continually reminding yourself it exists is remarkably effective. Maybe you like candidate A better than candidate B, but because you know about your bias, you can ask whether candidate A just happened to be more vocal or forceful. Likewise, if everyone says your product is phenomenal and they’ll definitely use it, you can look at your questions to see if they were designed to elicit praise.
+
+Alvarez’s top tip? Take a note taker with you into every customer development conversation. That way you can focus on interviewing a customer without splitting your attention, and you’re much more likely to capture everything — including the contradictions. Take this one step further by making sure your note taker isn’t invested in the same things as you.
+
+Recommended Article
+On her team at Microsoft, an engineer usually sits in on these calls and takes notes while a design researcher interviews. On other teams that she coaches, interviews are conducted by product managers. Usually the PM will have a strong belief in what customers want. The engineer probably doesn’t. Afterward, when you debrief, you're much more likely to surface the truth.
+
+The PM might say, “I think they really liked our solution.” And the engineer, freed up to really hear the call from a different perspective, might reply, “I’m pretty sure they were just being polite.” That’s how you counteract bias. You start small and take it interaction by interaction.
+
+Alvarez has experienced this firsthand as a neutral note taker. She once sat in on a call where the customer spoke freely until freezing up halfway through the conversation. When she pointed out this shift out to the PM, he said he didn’t notice the change in temperament. Together, they were able to determine what had triggered that reaction so they could fix how they asked some critical questions and get honest replies.
+
+“Good product leaders will take their note taker’s word to look deeper even if it means admitting they're wrong,” she says. “You can spot a bad product leader the moment they get defensive rather than constructive.”
+
+HINDSIGHT BIAS
+
+This is another behavioral economics concept that roughly says: “Oh hey, we knew it would work all along.”
+
+When you fail to write down all the times you were proven wrong and had to course correct, you’ll forget. Especially if your product ends up succeeding, you’ll think you just had good instincts. Your fundamental beliefs must have held true. Sounds great, but the next time you launch something or try to break into a new market, you might skip or skimp on your customer development — because, geez, aren’t you usually right without having to worry about that stuff?
+
+“This happens to everyone, no matter how long they’ve been doing something,” says Alvarez.
+
+I hear it at Microsoft all the time — someone will say, 'We've been the market leader for 30 years,' and I think to myself, 'Okay, well you're not anymore.'
+The remedy of course is to diligently document things as you go, and to make these flash-points and about-faces visible and easily searchable. When you launch something similar in the future, you want to be able to go back and pull up all of the false assumptions you made and pivot points you hit. Learning from these moments is how you’ll go faster in the future.
+
+*There’s a wall at Yammer headquarters where one of the engineering managers has written every experiment that his team has conducted in the last year. He uses green for winning A/B tests and red for failing A/B tests. You can clearly see where assumptions were debunked and theories rewritten, and it serves as a helpful and unmissable reminder to stay nimble, accept course changes with grace — and most importantly, remember them.*
+
+“We’re smart people. We know our product. We know our customers. But we still screw up,” says Alvarez. “If you can look at past screw ups and see where you adjusted and shifted things or started believing something new, you can apply those lessons going forward, and you’ll always remain experimental because you’ll know you’re never infallible.”
+
+SUPPORTIVE BIAS
+
+This is you saying, “I already made this decision, so I'm going to defend it tooth and nail.”
+
+Otherwise, you might experience some uncomfortable cognitive dissonance. The best example: You bought a car for a lot of money. There’s stuff about this car you hate, but damn it, you’re going to keep driving it because if you don’t, you’re the idiot who bought a crappy car.
+
+This is a huge factor in customer development and interviewing. “If you ask someone about the tool they use to solve their problem today, even if they didn’t choose it, they’ll defend their current method,” says Alvarez. “It could be crystal clear from your outside perspective that their current process is terrible. But they won’t admit it. Sometimes they won’t even see it.”
+
+Maybe you’ll ask a marketer how they send out email campaigns, and they’ll detail their 35-step process for you. Maybe it includes Post-it notes and running some sort of hacky script and takes half a day. You’re thinking they’re crazy, and that you have an awesome opportunity to sell them something different. But it won’t work like that. They already use this other thing. That’s the way their world works, and it’s beyond hard for them to accept an alternative. If you ask them to rate their solution on a scale from one to 10, they’ll say ‘eight.’ If you ask them what they’d improve about it, they’ll give you superficial, unhelpful answers.
+
+
+*To win at customer development, you need to ask questions that get people away from supportive bias. For example, you could prompt that marketer with:*
+
+*Suppose a new co-worker joined your team and you wanted to help them get up to speed with sending email campaigns. What advice would you give?
+If you had to pick just one element of your email campaign process to improve, what would it be?
+If your manager decided unilaterally to pick a new email marketing tool, what would you dread most about learning the new tool?
+When people think about giving advice to that new co-worker, their desire to be helpful outweighs their supportive bias. When you ask about just one good or bad element, you’re allowing them to continue believing their current process is okay while honestly criticizing the worst parts. (And if the interviewee comes to the conclusion that, ‘Hey, our current process is terrible!’ on her own, well, even better.)*
+
+HYPERBOLIC DISCOUNTING
+
+We give more weight to things that are happening sooner than later. You’d like to lose 10 pounds, but there’s a slice of cheesecake right there. In an ideal world, we’d resist temptation, eat salad instead, and then we’d be happy. We think we can do this. But the reality is we suck at predicting the future, and we suck at making tradeoffs that require us to.
+
+“This means, we often say we’re going to do something but we won’t,” says Alvarez. “In order to get a certain benefit, we set goals to run every day for a half hour, or to meditate for 10 minutes in the morning or to do laundry every week. It sounds easy but it isn’t at all.”
+
+When you apply this thinking to products, you can see how people default to what works best for them right now. Hyperbolic discounting explains why many people continued to tape programs on their VCRs after TiVo came out.
+
+“You could tell people, ‘If you just learn this new interface, then your favorite shows will automatically be saved on your TV,’ and they’d say with a straight face, ‘Oh that’s nice, but I just learned to program my VCR.’” People end up undervaluing future benefit and overvaluing short-term gratification.
+
+So given this backdrop, how can you get customers to be honest about what it is they'll do? How can you more accurately see into their future behavior?
+
+**Stop asking people about the future. Ask them only about the past.**
+*Assume that people’s capacity for changing past behaviors is plus or minus 5%. Someone who's willing to walk up two flights of stairs will probably be willing to walk up two and a half flights of stairs, but they’re not likely to sign up for a marathon. Some people might, but you can’t build a business around that.*
+
+“Even if this person tells you they're definitely going to run a marathon, you have to be suspicious,” she says. “The best way to figure out if they actually will is to ask them how many miles they ran last week. How many races did they run last year? If the answer is zero and they’re just getting started, their predicted future behavior is highly unlikely.”
+
+She recommends asking questions like:
+
+In the past week, how often did you do X?
+Last time you did X, how long did it take?
+Last time your team did X, how many people needed to get involved?
+You want to capture quantitative data about what happened in the past. It won’t lie to you.
+
+This is an area that’s especially sensitive to negative judgment from others. People want to idealize their future selves. They want to believe in their ability to work toward those goals. So when faced with past behavior that runs contrary, they might get defensive. They might be dishonest. You have to phrase your questions to make it acceptable for people to give answers that may not be perfect or socially acceptable.
+
+*“Instead of asking someone if they let their kids use an iPad (an assumed negative behavior), ask them how many days in the past week their kids used an iPad,” says Alvarez. “Most people will answer honestly because you already implied that the answer won’t be zero — and that it’s not zero for the other people you’re talking to.”*
+
+You want to allow people to tell you things — like the fact that it takes them a half day to send out an email campaign. Instead of asking how long something took, ask, “Did it take longer than six hours?” You don’t want the person to feel bad or like they might be doing a bad job when you point out the shortcomings of their existing solution. That’s when they'll shut down and you can’t learn any more from them.
+
+If you make someone choose between being honest and being perceived as good, they'll always choose the latter. So don't put them in that situation.
+
+HACK YOUR BEHAVIOR
+
+Recognizing common customer biases and knowing the quick fixes described above is one thing. But the most successful startups will use this information to change behavior in their favor from the start. It’s hard to do when you’re running a million miles a minute with limited resources, but there are simple, systemic things you can do early.
+
+One of the most impactful things you can do is capture data from customer interviews the right way. It all boils down to the power of storytelling and making it a tradition on your team.
+
+When you’re interviewing customers, you tend to summarize what they said in a few bullet points. You can do that for brevity, but to make it stick, think of how you’d present this information as a story.
+
+What details would you include to make it interesting or non-obvious or entertaining? Those are the helpful tidbits that slip by when you prioritize brevity. In a story, you’re more likely to include the questions you asked and if you changed them and why. You can better frame your findings in terms of, “We used to believe the world was this way, and now we have new information that tells us that it’s this way instead, so as a result we’re going to do this...”
+
+"For example, we used to believe that it was really important for C-level executives to participate on Yammer," says Alvarez. "If the CEO posts, then that sends the message that this is a credible and valuable tool. And that’s not wrong, but we’ve talked to so many employees at large companies that are many levels away from the CEO. If the CEO loves Yammer but Jane’s boss thinks it’s a waste of time, Jane isn't going to use Yammer. So we need to make sure the product works at the small team level — and make sure all of the Jane’s-bosses of the world understand the value of it."
+
+Putting your customer research into this framework makes it stickier and more memorable. Especially when your company grows out of the “everyone sits at one table” phase, it’s easy for a lot of the detail to get lost. As a result, your product team might seem like they’re changing their mind all the time. This isn’t a small thing. When people don’t understand the company's vision or how and why the product is being built a certain way, they leave.
+
+Stories are sharable and lend clarity. They contextualize data in a way everyone can understand and rally behind. Generally, people are okay with pivots if they understand the impetus.
+
+This is where it becomes very helpful to have a dedicated point person managing your customer development workflow. In a perfect world, you’re doing this so early on that it’s 'all hands on deck' and everyone is making calls to interview customers, but it's still handy to have a point person who's responsible for converting notes into stories, among other things.
+
+These tasks should extend to what Alvarez calls “eavesdropping and interrupting.” At Yammer, she was the person in charge of shaping and growing the customer base, and she and her team would attend any meeting where customers were discussed. “We would sit in and listen for wrong assumptions so we could counter them one at a time. Even if we didn’t have the data, we’d say, ‘That sounds like an assumption. Let me go talk to people and figure out whether it’s true or not,’” she says.
+
+Being good at customer development can make you annoying or even unlikable. But it also makes you absolutely vital to the org.
+Any customer development expert needs to get used to being the source of bad news and taking the arrows without getting defensive. “They just need to be really practiced at saying, ‘I know, I know. We all wanted the same thing. We all wanted this to work out. But we talked to 10 people and they disagreed with our current direction.’” It will pay off.
+
+SCALE YOUR ADVANTAGE
+
+Understanding how behavioral economics influences your customers and your team is a significant competitive advantage. Given that it’s much easier to apply these tactics early when your company is small, it requires considerable effort to scale them as you grow.
+
+“The best thing you can do is make these lessons part of onboarding,” Alvarez says.
+
+*When Yammer entered hyper-growth and onboarding became more formal, she would give a 40-minute talk about how customers are not always right about what they want, how and why to ask non-leading questions, and how to capture feedback from customers in a way that can be funneled back into the product.*
+
+“Our goal was to immediately give them the conversational patterns they’d need to surface real information every time they had a conversation with a customer,” she says. “Everyone we hired wanted to be helpful and to listen. But they didn’t know what they should be noting down or how to frame their questions in a way that would focus on past behavior or yield more honest answers.” As part of onboarding, they would simulate these types of conversations and rehearse until there was a certain amount of “muscle memory” to their delivery.
+
+Following onboarding, you want to make it easy for people to send in the customer feedback they usually get piecemeal in a way that’s visible to as many people on the team as possible. Reports should not be private. People should be alerted to how much of this information is flowing in all the time, even if it’s just about little things.
+
+“If you can start this stream of data flowing back from your field, then you’re constantly reinforcing this practice of never making assumptions and always keeping biases top of mind so you can bust them in real time," Alvarez says.
+
+"At Yammer, field sales and product folks share questions they’ve heard, usage patterns they’ve seen, and pitches that have successfully convinced customers. People will share a 1-2 sentence observation on Yammer that they would’ve been reluctant to put in an email that clutters up hundreds of inboxes." Other services like Slack that promote more granular communication work too.
+
+BUILDING AN INSIGHTFUL CULTURE
+
+Early on, you have the opportunity to use behavioral economics to create a culture where everyone thinks deeply about what customers truly want, not what they just say they want. These are the cultures that are capable of true surprise and delight, because they build things people love but didn’t expect. There are a few things you can do to make this happen.
+
+First, become skilled as a leader on your own. Alvarez regularly attends and gives workshops where customer development professionals and program managers from across many companies meet to swap stories, share challenges and brainstorm solutions. She’s part of a distribution list where people send their notes from customer interviews to help people structure their own. If you’re just getting started, consider seeking out your peers and forming these types of networks — your investors or accelerator or co-working space might help.
+
+Keep up with trends and influencers working on these problems by curating a Twitter list and checking it once a day for interesting learnings. Alvarez has made this a habit, following many of the lean startup evangelists who are big on thoughtful customer development like Eric Ries, Laura Klein, Janice Fraser and Jeff Gothelf. A blogger named Justin Wilcox runs a valuable site called Customer Development Labs with recent thinking on bias and interview tactics, too.
+
+Second, if your company is pre-product or extremely small, don’t shy away from pulling in friends and family to help. For instance, you could draft an engineer friend to accompany you on calls as a note taker to capture more objective data from your interviews. Take people up on these favors while you can. Don’t wait for more resources to start sussing out what your customers really think.
+
+And finally, as you start onboarding more customer-facing folks — sales, customer success, etc. — you can reward those who are proactive and diligent about sending high-quality feedback to the product team. “I’ve been at a couple companies where product managers rewarded good customer service reps by volunteering to join them on customer calls, or sharing a preview of new product screenshots, etc.,” says Alvarez. “More access is an incredibly motivating reward when it’s earned. As the teams grew, the people who did a good job got more attention, which helped them do their jobs better, and on and on in a virtuous cycle.”
 
 https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.9qxd31dsd
